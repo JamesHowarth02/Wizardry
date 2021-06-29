@@ -1,0 +1,11 @@
+api-version: 1.17
+author: "James Howarth"
+commands: 
+  intro: 
+    aliases: 
+      - introduction
+    description: "This is the introduction command."
+description: "First Minecraft Spigot plugin!"
+main: me.Wizardry.Main
+name: Wizardry
+version: "1.0.3"
