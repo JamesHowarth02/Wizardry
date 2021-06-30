@@ -4,7 +4,7 @@ commands:
   intro: 
     aliases: 
       - introduction
-    description: "This is the introduction command."
+    description: "Toggles the introduction scene."
 description: "Use special wands to cast passive spells!"
 main: me.Wizardry.Main
 name: Wizardry
