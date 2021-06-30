@@ -9,6 +9,8 @@ public class Levitation extends Wand {
 	 * 
 	 * Usage:
 	 * 
+	 * Left click to summon a levitation spell upon entities close to you.
+	 * 
 	 */
 	public Levitation(Player wand_owner) {
 		super("Levitation", wand_owner, wand_owner.getUniqueId());
