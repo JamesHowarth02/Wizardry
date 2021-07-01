@@ -5,7 +5,7 @@ commands:
     aliases: 
       - introduction
     description: "Toggles the introduction scene for the executor."
-description: "Use special wands to cast passive spells!"
+description: "Use special wands to cast unique spells!"
 main: me.Wizardry.Main
 name: Wizardry
 version: "1.0.4"
